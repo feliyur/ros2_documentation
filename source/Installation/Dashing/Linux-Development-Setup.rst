@@ -72,7 +72,9 @@ Install development tools and ROS tools
      pytest \
      pytest-cov \
      pytest-runner \
-     setuptools
+     setuptools \
+     empy \ 
+     lark-parser
    # install Fast-RTPS dependencies
    sudo apt install --no-install-recommends -y \
      libasio-dev \
